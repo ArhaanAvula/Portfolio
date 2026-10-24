@@ -1,5 +1,3 @@
-# Portfolio
-
 # AI-Powered Phishing URL Detection Chrome Extension
 
 A machine learning-based Chrome extension designed to help users identify potentially malicious URLs and recognize online threats.
