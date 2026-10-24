@@ -1,0 +1,31 @@
+{
+  "name": "PhishNet",
+  "description": "Detects phishing links on webpages using an AI model and highlights them in red.",
+  "version": "1.0",
+  "manifest_version": 3,
+  "permissions": [
+    "activeTab",
+    "scripting",
+    "storage",
+    "tabs"
+  ],
+  "host_permissions": [
+    "http://127.0.0.1:5000/*",
+    "<all_urls>"
+  ],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "action": {
+    "default_popup": "hello.html",
+    "default_icon": "phishing_bot.png"
+  },
+  "icons": {
+    "16": "phishing_bot.png",
+    "48": "phishing_bot.png",
+    "128": "phishing_bot.png"
+  }
+}
+
+
+
