@@ -69,4 +69,4 @@ Potential improvements include expanding evaluation to more diverse URL datasets
 
 ## Author
 
-Developed as an independent project exploring machine learning, browser extensions, and cybersecurity.
+Developed by Arhaan Avula as an independent cybersecurity and machine learning project.
